@@ -1,2 +1,2 @@
 # Chernobyl
-Repository for the Chernobyl-based game. 
+Work on the Chernobyl inspired game
